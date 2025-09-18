@@ -1,0 +1,1 @@
+This repository contains the code associated with the manuscript “The regulatory landscape of nascent transcription in human health and disease” (preprint: https://www.biorxiv.org/content/10.1101/2025.09.24.676871v1).
